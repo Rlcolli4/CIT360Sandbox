@@ -19,7 +19,7 @@ The usernames and passwords in this file will NOT work in a real life database, 
         <property name="hbm2ddl.auto">update</property>  
         <property name="dialect">org.hibernate.dialect.Oracle9Dialect</property>  
         <property name="connection.url">jdbc:oracle:thin:@localhost:8080:xe</property>  
-        <property name="connection.username">userAdmin</property>  
+        <property name="connection.username">aFak3Us3r</property>  
         <property name="connection.password">pa$$w0rd</property>  
         <property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>  
     <mapping resource="employee.hbm.xml"/>  
