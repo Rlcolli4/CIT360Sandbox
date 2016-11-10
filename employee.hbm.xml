@@ -17,6 +17,8 @@ This file will make sure the classes we make in our application will map to the 
             
     <property name="firstName"></property>  
     <property name="lastName"></property>  
+    <property name="middleInitial"></property> 
+    <property name="position"></property>  
             
   </class>  
             
